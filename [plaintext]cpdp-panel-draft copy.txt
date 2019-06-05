@@ -1,0 +1,29 @@
+Online Privacy, Algorithmic Bias, Targeted Political Advertisement — an Interdisciplinary Investigation 
+
+We observe an ever increasing degree of automation in the systems responsible for content delivery. Advertisement platforms and content recommender systems alike are filtering, weighting, and ranking a continuous feed of potential items to provide a tailored experience to each individual based on their personal preferences and past behaviour. The complexity of such systems introduces a sophisticated (and almost totally opaque) new layer to peoples’ ability to access information. Such systems determine what advertisement you see online, what elements make up your social media feed, which products your online marketplace recommends, the multimedia content that may start to autoplay shortly after the clip you are currently watching ends, and what related news you will see at the bottom of the article you are currently reading. These decisions drastically impact our access to information and relationship with content serving platforms. 
+
+In many cases, the definition of a success for such systems is not based on individual or societal well-being, but rather on some variation of engagement or revenue. A common belief motivating the design and optimisation of these algorithms is that more (private) information about an individual equates to a better experience and more valuable advertisement via increasingly specific programatic micro-targeting. This panel will present a multidisciplinary investigation of the interaction between data collection, the algorithmic nature of content recommendation systems, the commercial forces at play for such platforms and the individual and societal consequences of their prevalence. 
+
+Speaker profiles 
+
+Moderator: Martin Lopatka (Mozilla) Research Engineering on privacy and personalisation technologies and Data Scientist at Mozilla. Research fellow at Data Active, former forensic statistician, and self-proclaimed data activist. 
+
+[speaker needed] Legal and governance expert Someone who can speak to the role of policy and government in moderating the influence of platforms. The privacy of human beings, and the defence of our communication infrastructure (and news media). This individual will round off the “high-level” discussion with insight into the relationship between democracy, government, and platforms. They should be able to provide a high level understanding of the legal status of online tracking and answer questions in this vein: 
+• How is personalised algorithmic micro targeting related to GDPR? Is it possible to protect myself legally (if not technically)? 
+• Do we see a real threat of election interference via political advertisement deployed in this ecosystem and can you provide examples of known attacks? • What is the role of consent in the legislative context regarding biased 
+information access on social media platforms?
+
+[speaker needed] Content producers/publishers news media expert 
+Someone who can speak to the relationship between journalism and online platforms with an ecosystem-level view. We need someone to represent the content publishers. Someone with a deep experience into the news media and digital news media industry who ideally would be comfortable answering questions like: 
+	•	Why do news sites allow third-party code to run on their pages? 
+	•	What is the nature of trading visitor site activity information with advertisers, is it purely monetary or is there an exchange taking place for page  traffic etc? 
+	•	How effective are subscription models/ pay per read in the competition  versus “free” content providers? 
+	•	What is the necessity of a social media presence for news/media publishers, is it all about reach or a more complex relationship?  
+[speaker confirmed] Systemic and societal impacts (Stefania) Speaker who bridges the gap between the very technical level and the immediate implica- tions when it comes to how people get information. We would expect a concise. Description of filter-bubbles and the societal risk. Connecting the technical layer fo the discussion with a compelling narrative of the consequences fo technical decisions to optimise on engagement/revenue. This person should be technically competent in terms of system design, but ideally from a humanities or social science background and preferably familiar with the scientific literature on this topic. Sample questions that they should be able to authoritatively discus: 
+	•	Why are the current incentives implemented in content recommendation systems an ideal environment for polarising content? 
+	•	How does the prevalence of social media as a content platform affect the ability of an average citizen top access a diverse set of viewpoints on a topic? 
+	•	Do we see a change in people’s information accessing behaviour and opinion forming, can you provide an example of the interaction with algorithmic  
+[speaker confirmed] Technical biases in information collection (Sarah Bird?) Someone who can speak to the technical layer of how personal in- formation is collected, describe the pervasiveness of online tracking and the ways it is performed. A comprehensive look into the ad-tech participants and the technology they employ. And set a clear foundation for the discussion with a concise explanation of the online tracking ecosystem. This should be a technologist/engineer and be comfortable with such questions: 
+	•	What is the prevalence of online tracking on news sites, popular websites? 
+	•	Technically, what can an individual do to prevent private information from  being exfiltrated while they browse the web? 
+	•	What types of data are collected for resale in targeted advertisement? 
