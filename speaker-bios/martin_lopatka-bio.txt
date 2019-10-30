@@ -1,5 +1,1 @@
-Martin Lopatka
-Senior Staff Data Scientist/Applied Statistician 
-Mozilla
-
 Martin Lopatka is a Senior Staff Data Scientist at Mozilla and technical lead of a research engineering team working on the strategic and scientific exploration of the world’s largest shared global resource. His research areas include machine learning, graph theory, and applied Bayesian statistics, with a focus on privacy preserving data collection. In addition, he works on both fundamental and product-facing research initiatives into the nature of the Web and way we use it. Martin received his PhD in Statistics from the University of Amsterdam in 2016, and his MSc in Artificial Intelligence in 2009 and has revelled in high dimensional statistical data analysis problems in a variety of application domains.
